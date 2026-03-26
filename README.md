@@ -16,8 +16,8 @@
 
 ## 🎓 Formação
 
-- 🎓 Técnico em Informática  
-- 🎓 Bacharelando em Sistemas de Informação (em andamento)  
+- 🎓 Técnico em Informática — IFNMG (Diamantina)  
+- 🎓 Bacharelando em Sistemas de Informação — UFVJM Diamantina (em andamento)  
 
 ---
 
@@ -31,8 +31,11 @@
     <img src="https://img.shields.io/badge/Instagram-@hudsonjrx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="hudsonjuniorpkk@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hudsonxavier">
+    <img src="https://img.shields.io/badge/LinkedIn-HudsonXavier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 
