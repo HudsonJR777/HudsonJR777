@@ -30,7 +30,7 @@
   <a href="https://instagram.com/hudsonjrx">
     <img src="https://img.shields.io/badge/Instagram-@hudsonjrx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="malito:hudsonjuniorpkk@gmail.com">
+  <a href="hudsonjuniorpkk@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hudsonxavier">
