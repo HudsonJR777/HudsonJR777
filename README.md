@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Hudson Xavier
+# 👋 Olá, eu sou Hudson
 
 🚀 Desenvolvedor Fullstack  
 🇧🇷 Brasil  
